@@ -7,12 +7,3 @@ Repositório criado para o desenvolvimento do trabalho MVP da sprint Machine Lea
 - **`Modelo/`** — modelo final treinado (Gradient Boosting otimizado), salvo em formato `.pkl`.
 - **`Clara_Bastos_MVP_ML_Analytics_...ipynb`** — notebook com todo o desenvolvimento do trabalho: análise exploratória, pré-processamento, treinamento e avaliação dos modelos.
 
-## Como carregar o modelo final
-
-python
-
-import joblib
-
-modelo = joblib.load("modelo_final_clara_bastos.pkl")
-
-print(modelo)
