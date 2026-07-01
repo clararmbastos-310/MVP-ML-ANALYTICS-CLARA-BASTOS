@@ -9,7 +9,7 @@ Repositório criado para o desenvolvimento do trabalho MVP da sprint Machine Lea
 
 ## Como carregar o modelo final
 
-\`\`\`python
+python
 import joblib
-modelo = joblib.load("Modelo/modelo_final_clara_bastos.pkl")
-\`\`\`
+modelo = joblib.load("modelo_final_clara_bastos.pkl")
+print(modelo)
