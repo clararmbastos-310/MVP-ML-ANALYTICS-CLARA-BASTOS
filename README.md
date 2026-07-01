@@ -5,5 +5,5 @@ Repositório criado para o desenvolvimento do trabalho MVP da sprint Machine Lea
 
 - **`Base de Dados/`** — base de dados utilizada no projeto (Adult Income Dataset).
 - **`Modelo/`** — modelo final treinado (Gradient Boosting otimizado), salvo em formato `.pkl`.
-- **`Clara_Bastos_MVP_ML_Analytics_...ipynb`** — notebook com todo o desenvolvimento do trabalho: análise exploratória, pré-processamento, treinamento e avaliação dos modelos.
+- **`Clara_Bastos_MVP_ML_Analytics_20261.ipynb`** — notebook com todo o desenvolvimento do trabalho: análise exploratória, pré-processamento, treinamento e avaliação dos modelos.
 
